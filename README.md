@@ -1,9 +1,12 @@
 # ferryjamku
 
 Ferry JamKu
+
 Aplikasi untuk management data penjualan dari toko ferry jam
 
-Demo App With API Online : https://drive.google.com/file/d/1Jsmqic6FwDyaDzYifBLDSQvbJeCtPUPe/view?usp=sharing
+API untuk aplikasi : https://drive.google.com/file/d/1Jsmqic6FwDyaDzYifBLDSQvbJeCtPUPe/view?usp=sharing
+
+Demo App Dengan API Online : https://drive.google.com/file/d/1Jsmqic6FwDyaDzYifBLDSQvbJeCtPUPe/view?usp=sharing
 
 ## Getting Started
 

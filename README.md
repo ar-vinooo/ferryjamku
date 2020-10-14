@@ -6,7 +6,7 @@ Aplikasi untuk management data penjualan dari toko ferry jam
 
 API untuk aplikasi : https://drive.google.com/file/d/1Jsmqic6FwDyaDzYifBLDSQvbJeCtPUPe/view?usp=sharing
 
-Demo App Dengan API Online : https://drive.google.com/file/d/1Jsmqic6FwDyaDzYifBLDSQvbJeCtPUPe/view?usp=sharing
+Demo Aplikasi Dengan API Online : https://drive.google.com/file/d/1Jsmqic6FwDyaDzYifBLDSQvbJeCtPUPe/view?usp=sharing
 
 ## Getting Started
 
